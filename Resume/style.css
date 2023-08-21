@@ -1,0 +1,40 @@
+*{
+ 
+    background-color: #E8E2E2;
+}
+body{
+    font-size: 200%;
+}
+
+h1{
+    font-size: 200%;
+    text-align: center;
+    color: #5D3891;
+}
+h2{
+    font-size: 110%;
+    text-align: center;
+    color: #F99417;
+}
+p{
+    font-size: 110%;
+    text-align: center;
+    color: black;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.contact
+{
+    margin-left: 0;
+    width: 5%;
+}
+.project
+{
+    margin-left: 0;
+    width: 5%;
+}

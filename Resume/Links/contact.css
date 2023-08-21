@@ -1,0 +1,22 @@
+*{
+    font-size: 100%;
+    background-color: #E8E2E2;
+}
+
+h1{
+    font-size: 200%;
+    text-align: center;
+    color: #5D3891;
+}
+
+div{
+    font-size: 110%;
+    text-align: left;
+    color: black;
+}
+img{
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    width: 10%;
+}
