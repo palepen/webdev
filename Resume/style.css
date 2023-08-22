@@ -9,7 +9,7 @@ body{
 h1{
     font-size: 200%;
     text-align: center;
-    color: #5D3891;
+    color: #5D3891
 }
 h2{
     font-size: 110%;
@@ -31,10 +31,10 @@ img{
 .contact
 {
     margin-left: 0;
-    width: 5%;
+    width: 4rem;
 }
 .project
 {
     margin-left: 0;
-    width: 5%;
+    width: 4rem;
 }

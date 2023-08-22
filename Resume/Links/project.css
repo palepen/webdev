@@ -9,14 +9,9 @@ h1{
     color: #5D3891;
 }
 
-div{
-    font-size: 110%;
-    text-align: left;
-    color: black;
-}
 img{
     display: block;
     margin-left: 0%;
     margin-right: auto;
-    width: 10%;
+    width: 2rem;
 }
